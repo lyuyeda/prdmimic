@@ -1,0 +1,9 @@
+body{
+  font-size: 14px;
+  font-family: 'PT Serif', serif;
+  background: #fffdf8 url('bg-new.png') top left no-repeat;
+}
+.ui.header{
+  padding-top: 30px;
+  font-family: 'PT Serif', serif;
+}
